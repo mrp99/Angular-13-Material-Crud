@@ -1,0 +1,23 @@
+{
+  "productList": [
+    {
+      "productName": "TV",
+      "category": "Eletronic",
+      "freshness": "Brand New",
+      "price": 120.95,
+      "comment": "This is a Smart Tv shipped!!",
+      "date": "2023-12-12T03:00:00.000Z",
+      "id": 1
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
